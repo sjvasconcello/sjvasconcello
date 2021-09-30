@@ -1,4 +1,5 @@
-# Santiago J. Vasconcello Acuña - @sjvasconcello
+![alt text](https://media-exp1.licdn.com/dms/image/C4D16AQGbWDzbT4J1mQ/profile-displaybackgroundimage-shrink_350_1400/0/1623876519594?e=1638403200&v=beta&t=CwUtS7nLVs62tlxAph7TPjs4dmDImG2JSwDGYub6yUo)
+
 
 ### Hello everyone 👋
 ----

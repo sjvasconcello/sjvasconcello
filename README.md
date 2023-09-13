@@ -18,6 +18,7 @@ I'm Commercial Engineering student at the "Universidad Tectica Federico Santa Ma
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
 
 - 🌱 I’m currently learning Data Science, Bussiness and Machine Learning in [UTFSM](https://www.usm.cl/) and [Platzi](https://platzi.com/)
 - 👯 I’m looking to collaborate on project and volunteering in 🇨🇱

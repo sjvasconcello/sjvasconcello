@@ -1,4 +1,4 @@
-![alt text](https://media.licdn.com/dms/image/C4D16AQGbWDzbT4J1mQ/profile-displaybackgroundimage-shrink_350_1400/0/1623876519594?e=1699488000&v=beta&t=bcjWNYAXL3VPN7D8_Fup31TImLM6preHqX-CCQEV2no)
+![alt text](img.jpg)
 
 
 ### Hello everyone 👋

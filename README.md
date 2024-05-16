@@ -5,7 +5,7 @@
 
 ----
 
-I'm Commercial Engineering student at the "Universidad Tectica Federico Santa Maria" ([UTFSM](https://www.usm.cl/)). I also a self-taught student in Data Science and Machine Learning
+I'm Commercial Engineering from "Universidad Tectica Federico Santa Maria" ([UTFSM](https://www.usm.cl/)). I also a self-taught student in Data Science and Machine Learning
 
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
